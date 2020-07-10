@@ -174,6 +174,7 @@ def user_stats(df):
     print('-'*40)
 
 def display_data_function(df):
+    """Displays raw bikeshare data. """
     question = input('\nDo you want to see raw data? Enter yes or no.\n')
     index = 0
     final_question = "yes"
