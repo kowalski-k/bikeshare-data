@@ -1,5 +1,7 @@
 # Bikeshare Data Project
 
+Project implemented as part of the Programming for Data Science course from Udemy.
+
 # Date created 
 
 10.07.2020
