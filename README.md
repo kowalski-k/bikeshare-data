@@ -1,6 +1,6 @@
 # Bikeshare Data Project
 
-Project implemented as part of the Programming for Data Science course from Udemy.
+Project implemented as part of the Programming for Data Science course from Udacity.
 
 # Date created 
 
